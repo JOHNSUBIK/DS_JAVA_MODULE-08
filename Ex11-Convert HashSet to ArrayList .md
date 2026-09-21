@@ -12,7 +12,7 @@ To convert a collection of distinct integers stored in a HashSet into an ArrayLi
 ```java
 /*
 Program to To convert a collection of distinct integers stored in a HashSet into an ArrayList and display its contents.
-Developed by: JOHN PAUL J
+Developed by: John Paul J
 RegisterNumber: 212223230093
 
 */
@@ -47,9 +47,8 @@ public class HashSetToArrayList {
 ```
 
 ## Output:
+<img width="524" height="550" alt="image" src="https://github.com/user-attachments/assets/0a328278-4dfa-401b-b137-abc9458d737d" />
 
-
-![alt text](IMG/11.png)
 
 ## Result:
 The program successfully converts a collection of distinct integers stored in a HashSet into an ArrayList
